@@ -68,6 +68,6 @@ Talk to me about:
 ## <p align="left">🐍 Just a snake eating my contributions</p>
 <a href="https://www.facebook.com/alvisjm/"><img src="https://github.com/Vince-Loh/Vince-Loh/blob/master/a.gif"></a>
 <p align='center'>
-<img src="https://github.com/Vince-Loh/blob/main/github-contribution-grid-snake.svg">
+<img src="https://github.com/Vince-Loh/Vince-Loh/blob/main/github-contribution-grid-snake.svg">
 </p>
 <br>
