@@ -16,7 +16,7 @@ I'm Vince 😃. I'm from Singapore and i am currently studying at Swinburne Univ
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
 </a>
 
-<a href="https://github.com/Alvis-JM">
+<a href="https://github.com/Vince-Loh">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
 </a>
   
@@ -24,7 +24,7 @@ I'm Vince 😃. I'm from Singapore and i am currently studying at Swinburne Univ
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
 </a>
 	
-<a href="https://www.linkedin.com/in/alvis-hay-ming-10146a1a2/">
+<a href="https://www.linkedin.com/in/vince-loh/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
 </a>
   
