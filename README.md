@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AlvisJM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvis-hay-ming-10146a1a2/)](https://www.linkedin.com/in/alvis-hay-ming-10146a1a2/) [![Gmail Badge](https://img.shields.io/badge/-alvishay02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvishay02@gmail.com)](mailto:alvishay02@gmail.com)
 
-I'm Alvis 😃. I'm from Singapore and i am currently studying at Swinburne University Of Technology 🏫. I love to explore and learn about new things.
+I'm Vince 😃. I'm from Singapore and i am currently studying at Swinburne University Of Technology 🏫. I love to explore and learn about new things.
 
 
 - 📫 How to reach me: **alvishay02@gmail.com**
@@ -40,8 +40,8 @@ I'm Alvis 😃. I'm from Singapore and i am currently studying at Swinburne Univ
 ## ⚡ Technologies 🛠
 <a href="https://www.facebook.com/alvishay/"><img src="https://github.com/Alvis-JM/Alvis-JM/blob/master/a.gif"></a>
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Python, Ruby, Golang**.
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Vue, NextJS, Tailwind and more**.
+- Backend development using **Python, Golang, C#, Java**.
 - Making for **Relational Database Management Systems**.
 - Desktop application development using **Flutter** (Still learning).
 - Mobile application development using **Swift and Kotlin**.
