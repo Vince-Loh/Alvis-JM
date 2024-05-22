@@ -7,7 +7,7 @@
 I'm Vince 😃. I'm from Singapore and i am currently studying at Swinburne University Of Technology 🏫. I love to explore and learn about new things.
 
 
-- 📫 How to reach me: **alvishay02@gmail.com**
+- 📫 How to reach me: **vince.lohys@gmail.com**
 
 ## 💬 Connect with me:
 <a href="https://www.facebook.com/alvishay/"><img src="https://github.com/Alvis-JM/Alvis-JM/blob/main/a.gif"></a>
@@ -57,7 +57,7 @@ Talk to me about:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Alvis-JM">
+  <a href="#" title="Vince-Loh">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLX15&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Alvis-JM">
