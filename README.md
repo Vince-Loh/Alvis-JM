@@ -10,7 +10,7 @@ I'm Vince 😃. I'm from Singapore and i am currently studying at Swinburne Univ
 - 📫 How to reach me: **vince.lohys@gmail.com**
 
 ## 💬 Connect with me:
-<a href="https://www.facebook.com/alvishay/"><img src="https://github.com/Alvis-JM/Alvis-JM/blob/main/a.gif"></a>
+<a href="https://www.facebook.com/alvishay/"><img src="https://github.com/Vince-Loh/Vince-Loh/blob/main/a.gif"></a>
 <p align="center">
 <a href="https://www.facebook.com/alvishay">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
