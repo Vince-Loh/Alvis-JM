@@ -57,10 +57,10 @@ Talk to me about:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Alvis-JM">
+  <a href="#" title="Vince-Loh">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLX15&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Alvis-JM">
+  <a href="#" title="Vince-Loh">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Alvis-JM&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -68,6 +68,6 @@ Talk to me about:
 ## <p align="left">🐍 Just a snake eating my contributions</p>
 <a href="https://www.facebook.com/alvisjm/"><img src="https://github.com/Alvis-JM/Alvis-JM/blob/master/a.gif"></a>
 <p align='center'>
-<img src="https://github.com/Alvis-JM/Alvis-JM/blob/main/github-contribution-grid-snake.svg">
+<img src="https://github.com/Vince-Loh/Vince-Loh/blob/main/github-contribution-grid-snake.svg">
 </p>
 <br>
